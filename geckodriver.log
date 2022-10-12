@@ -2303,7 +2303,8 @@ WebDriver BiDi listening on ws://127.0.0.1:61967
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilerraITG\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:61967/devtools/browser/83d6a76e-02cd-4b50-aa93-f5b217bb0c3e
-1665565425173	geckodriver	INFO	Listening on 127.0.0.1:62339
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62339
 1665565428212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilefxatn2"
 *** You are running in headless mode.
 1665565428661	Marionette	INFO	Marionette enabled
@@ -2314,7 +2315,8 @@ WebDriver BiDi listening on ws://127.0.0.1:62340
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilefxatn2\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:62340/devtools/browser/9461a668-5af3-4148-b747-f22cbf07cbc9
-1665565439145	geckodriver	INFO	Listening on 127.0.0.1:62463
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62463
 1665565442192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofile8oKvJX"
 *** You are running in headless mode.
 1665565442742	Marionette	INFO	Marionette enabled
@@ -2325,7 +2327,8 @@ WebDriver BiDi listening on ws://127.0.0.1:62464
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofile8oKvJX\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:62464/devtools/browser/04975c0c-2a20-4196-9a75-671eae3b8ded
-1665565446768	geckodriver	INFO	Listening on 127.0.0.1:62599
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62599
 1665565449797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileWKv2va"
 *** You are running in headless mode.
 1665565450415	Marionette	INFO	Marionette enabled
@@ -2336,7 +2339,8 @@ WebDriver BiDi listening on ws://127.0.0.1:62600
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileWKv2va\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:62600/devtools/browser/7a50bc99-15f7-4ea4-ba2b-31665cfeeefa
-1665565479798	geckodriver	INFO	Listening on 127.0.0.1:63274
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63274
 1665565482834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "63275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilecE3AHs"
 *** You are running in headless mode.
 1665565483445	Marionette	INFO	Marionette enabled
@@ -2414,7 +2418,8 @@ JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386
 JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
 JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
-1665565749844	geckodriver	INFO	Listening on 127.0.0.1:63792
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63792
 1665565752916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "63793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileAaLxNX"
 *** You are running in headless mode.
 1665565753482	Marionette	INFO	Marionette enabled
@@ -2445,3 +2450,7 @@ JavaScript error: , line 0: AbortError: The fetching process for the media resou
 JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
 JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
 JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

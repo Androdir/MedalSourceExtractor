@@ -2266,3 +2266,182 @@ WebDriver BiDi listening on ws://127.0.0.1:56592
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileR0ldaz\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56592/devtools/browser/b7eb40c5-fd2d-4074-8a52-02fed5d8c79e
 JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+1665565116463	geckodriver	INFO	Listening on 127.0.0.1:61028
+1665565119526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "61029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilewTS7Em"
+*** You are running in headless mode.
+1665565120087	Marionette	INFO	Marionette enabled
+1665565120095	Marionette	INFO	Listening on port 61040
+Read port: 61040
+WebDriver BiDi listening on ws://127.0.0.1:61029
+1665565120249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilewTS7Em\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61029/devtools/browser/85660c80-84c8-466a-a170-d200210d3b98
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61055
+1665565125477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "61056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilezt1mOR"
+*** You are running in headless mode.
+1665565126177	Marionette	INFO	Marionette enabled
+1665565126186	Marionette	INFO	Listening on port 61155
+Read port: 61155
+WebDriver BiDi listening on ws://127.0.0.1:61056
+1665565126350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilezt1mOR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61056/devtools/browser/4515a7e2-deb6-4bd2-bfc3-2edc06ec985e
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61966
+1665565379249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "61967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilerraITG"
+*** You are running in headless mode.
+1665565379715	Marionette	INFO	Marionette enabled
+1665565379723	Marionette	INFO	Listening on port 61976
+Read port: 61976
+WebDriver BiDi listening on ws://127.0.0.1:61967
+1665565379860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilerraITG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61967/devtools/browser/83d6a76e-02cd-4b50-aa93-f5b217bb0c3e
+1665565425173	geckodriver	INFO	Listening on 127.0.0.1:62339
+1665565428212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilefxatn2"
+*** You are running in headless mode.
+1665565428661	Marionette	INFO	Marionette enabled
+1665565428671	Marionette	INFO	Listening on port 62351
+Read port: 62351
+WebDriver BiDi listening on ws://127.0.0.1:62340
+1665565428864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilefxatn2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62340/devtools/browser/9461a668-5af3-4148-b747-f22cbf07cbc9
+1665565439145	geckodriver	INFO	Listening on 127.0.0.1:62463
+1665565442192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofile8oKvJX"
+*** You are running in headless mode.
+1665565442742	Marionette	INFO	Marionette enabled
+1665565442754	Marionette	INFO	Listening on port 62515
+Read port: 62515
+WebDriver BiDi listening on ws://127.0.0.1:62464
+1665565442946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofile8oKvJX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62464/devtools/browser/04975c0c-2a20-4196-9a75-671eae3b8ded
+1665565446768	geckodriver	INFO	Listening on 127.0.0.1:62599
+1665565449797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "62600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileWKv2va"
+*** You are running in headless mode.
+1665565450415	Marionette	INFO	Marionette enabled
+1665565450423	Marionette	INFO	Listening on port 62698
+Read port: 62698
+WebDriver BiDi listening on ws://127.0.0.1:62600
+1665565450615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileWKv2va\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62600/devtools/browser/7a50bc99-15f7-4ea4-ba2b-31665cfeeefa
+1665565479798	geckodriver	INFO	Listening on 127.0.0.1:63274
+1665565482834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "63275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilecE3AHs"
+*** You are running in headless mode.
+1665565483445	Marionette	INFO	Marionette enabled
+1665565483454	Marionette	INFO	Listening on port 63317
+Read port: 63317
+WebDriver BiDi listening on ws://127.0.0.1:63275
+1665565483635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofilecE3AHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63275/devtools/browser/77508767-40fb-4a80-bd40-3f684fd9cd03
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1665565749844	geckodriver	INFO	Listening on 127.0.0.1:63792
+1665565752916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "--remote-debugging-port" "63793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileAaLxNX"
+*** You are running in headless mode.
+1665565753482	Marionette	INFO	Marionette enabled
+1665565753488	Marionette	INFO	Listening on port 63803
+WebDriver BiDi listening on ws://127.0.0.1:63793
+Read port: 63803
+1665565753757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\drumi\\AppData\\Local\\Temp\\rust_mozprofileAaLxNX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63793/devtools/browser/f0302fc9-3250-4333-90b6-fa44092f95bf
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://medal.tv/_next/static/chunks/framework-ac6550882a30386c.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript warning: https://medal.tv/_next/static/chunks/main-d235365714e236b8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.

@@ -24,15 +24,14 @@ class Browser(threading.Thread):
 		service = Service("geckodriver.exe")
 		self.driver = webdriver.Firefox(options=options, service=service)
 		
-		self.waiting = False
+		self.loading = False
 
 	def open_page(self, url):
 		self.driver.get(url)
-
-	def wait_for(self, css_selector):
-		self.waiting = True
-		WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
-		self.waiting = False
+		self.loading = True
+		while not '"contentUrl":' in self.driver.page_source:
+			time.sleep(0.2)
+		self.loading = False
 
 	def get_source(self):
 		return self.driver.page_source
@@ -56,18 +55,10 @@ def extract():
 	if not url:
 		return flask.jsonify({"error": "URL not provided."})
 
-	try:
-		url = requests.get(url, allow_redirects=True).url
-		if not "medal" in url.lower():
-			return flask.jsonify({"error": "URL is not a Medal page."})
-	except Exception as e:
-		return flask.jsonify({"error": "Invalid URL."})
-
 	browser.open_page(url)
-	browser.wait_for("#feed-clip-player-DwYehifHv382K-\:r1\:-player > div:nth-child(2) > div:nth-child(4)")
-	while browser.waiting:
-		time.sleep(0.1)
-		app.logger.info("waiting.")
+	while browser.loading:
+		time.sleep(0.2)
+		app.logger.info("loading.")
 	html = browser.get_source()
 	soup = str(bs4.BeautifulSoup(html, "html.parser"))
 	contentIndex = soup.find("contentUrl")

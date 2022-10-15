@@ -12,12 +12,8 @@ import time
 
 app = flask.Flask(__name__)
 
-class Browser(threading.Thread):
-	def __init__(self, thread_name="browser", thread_id="browser"):
-		threading.Thread.__init__(self)
-		self.thread_name = thread_name
-		self.thread_id = thread_id
-
+class Browser:
+	def __init__(self):
 		options = Options()
 		options.add_argument("--headless")
 		options.add_argument("--disable-gpu")
@@ -56,9 +52,6 @@ def extract():
 		return flask.jsonify({"error": "URL not provided."})
 
 	browser.open_page(url)
-	while browser.loading:
-		time.sleep(0.2)
-		app.logger.info("loading.")
 	html = browser.get_source()
 	soup = str(bs4.BeautifulSoup(html, "html.parser"))
 	contentIndex = soup.find("contentUrl")
